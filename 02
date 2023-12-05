@@ -1,0 +1,11 @@
+Inicio
+   // Entrada de dados
+   Ler valorEmReais
+
+   // Conversão de moeda
+   ValorEmDolar = valorEmReais / 4.95
+   ValorEmEuro = valorEmReais / 5.37
+
+   Escrever "Valor em Dólar:", ValorEmDolar
+   Escrever "Valor em Euro:", ValorEmEuro
+Fim

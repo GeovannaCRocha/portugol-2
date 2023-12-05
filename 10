@@ -1,0 +1,12 @@
+Inicio
+   SomaDasAlturas = 0
+
+   Para i de 1 até 8 faça
+      // Entrada de dados
+      Ler altura
+      SomaDasAlturas = SomaDasAlturas + altura
+   Fim Para
+
+   MediaDasAlturas = SomaDasAlturas / 8
+   Escrever "A média de altura da turma é:", MediaDasAlturas
+Fim

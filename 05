@@ -1,0 +1,13 @@
+Inicio
+   // Entrada de dados
+   Ler numero1
+   Ler numero2
+
+   Se numero1 > numero2
+      Escrever "O maior número é:", numero1
+   Senão Se numero2 > numero1
+      Escrever "O maior número é:", numero2
+   Senão
+      Escrever "Os números são iguais."
+   Fim Se
+Fim

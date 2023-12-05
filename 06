@@ -1,0 +1,8 @@
+Inicio
+   // Entrada de dados
+   Ler numero
+
+   Para i de 1 até 10 faça
+      Escrever numero, " x ", i, " = ", numero * i
+   Fim Para
+Fim

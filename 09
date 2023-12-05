@@ -1,0 +1,11 @@
+Inicio
+   // Entrada de dados
+   Ler numero
+
+   Fatorial = 1
+   Para i de 1 até numero faça
+      Fatorial = Fatorial * i
+   Fim Para
+
+   Escrever "O fatorial de ", numero, " é ", Fatorial
+Fim

@@ -1,0 +1,20 @@
+Inicio
+   // Entrada de dados
+   Ler numero1
+   Ler numero2
+
+   // Operações matemáticas
+   Soma = numero1 + numero2
+   Subtracao = numero1 - numero2
+   Multiplicacao = numero1 * numero2
+
+   Se numero2 <> 0
+      Divisao = numero1 / numero2
+      Escrever "Soma:", Soma
+      Escrever "Subtração:", Subtracao
+      Escrever "Multiplicação:", Multiplicacao
+      Escrever "Divisão:", Divisao
+   Senão
+      Escrever "NÃO É POSSÍVEL DIVIDIR POR 0"
+   Fim Se
+Fim

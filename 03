@@ -1,0 +1,14 @@
+Inicio
+   // Entrada de dados
+   Ler valorDoProduto
+   Ler quantidadeDeParcelas
+
+   // Cálculo das parcelas
+   ValorDaParcela = valorDoProduto / quantidadeDeParcelas
+
+   Se quantidadeDeParcelas <= 5
+      Escrever "Valor de cada parcela:", ValorDaParcela
+   Senão
+      Escrever "Quantidade de parcelas inválida."
+   Fim Se
+Fim

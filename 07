@@ -1,0 +1,9 @@
+Inicio
+   Soma = 0
+
+   Para i de 1 até 100 faça
+      Soma = Soma + i
+   Fim Para
+
+   Escrever "A soma dos números de 1 a 100 é:", Soma
+Fim

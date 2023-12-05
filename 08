@@ -1,0 +1,12 @@
+Inicio
+   Soma = 0
+
+   Para i de 1 até 5 faça
+      // Entrada de dados
+      Ler numero
+      Soma = Soma + numero
+   Fim Para
+
+   Media = Soma / 5
+   Escrever "A média dos 5 números é:", Media
+Fim
